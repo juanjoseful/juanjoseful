@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanjoseful
-- 👀 I’m interested in domotics and automatization developments
+- 👀 I’m interested in domotics and automatization developments and hamradio
 - 🌱 I’m currently learning Python and C++ lenguages 
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me juan.ruiza@udea.edu.co
